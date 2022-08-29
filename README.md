@@ -5,3 +5,5 @@ faut impérativement qu'elle sois en PNG
 Ne renommé pas la ressource, sinon celle-ci ne fonctionneras plus !
 
 Pour me contacter ci-besoin: $at0shi#1516
+
+Preview: https://streamable.com/6h3rgn
